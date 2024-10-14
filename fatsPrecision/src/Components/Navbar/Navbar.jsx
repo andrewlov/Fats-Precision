@@ -18,8 +18,8 @@ const Navbar = () => {
             <li>Home</li>
             <li>Services</li>
             <li>About Us</li>
-            <li>Facilities</li>
             <li>Gallery</li>
+            <li>Facilities</li>
             <li><button className='btn'>Contact Us</button></li>
         </ul>
     </nav>
